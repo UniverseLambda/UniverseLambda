@@ -15,6 +15,7 @@ Enjoy *(or suffer)* visiting my repos and admire *(or vomit in front of)* my cod
 - C++ pool, some small projects aiming to introduce students to C++98: [42-cpp-00](https://github.com/UniverseLambda/42-cpp-00), [42-cpp-01](https://github.com/UniverseLambda/42-cpp-01), [42-cpp-02](https://github.com/UniverseLambda/42-cpp-02), [42-cpp-03](https://github.com/UniverseLambda/42-cpp-03), [42-cpp-04](https://github.com/UniverseLambda/42-cpp-04), [42-cpp-05](https://github.com/UniverseLambda/42-cpp-05), [42-cpp-06](https://github.com/UniverseLambda/42-cpp-06), [42-cpp-07](https://github.com/UniverseLambda/42-cpp-07), [42-cpp-08](https://github.com/UniverseLambda/42-cpp-08)
 - philosopher, an introduction to POSIX multi-threading in C98: [42-philosopher](https://github.com/UniverseLambda/42-philosopher)
 - push_swap, a stack ordering program with a limit set of instruction in C: [42-push_swap](https://github.com/UniverseLambda/42-push_swap)
+- minitalk, a client-server project based on POSIX signal (that's not a joke): [42-minitalk](https://github.com/UniverseLambda/42-minitalk)
 - libasm, some C methods reimplemented in assembly (x86_64, Intel Syntax, SysV ABI, never evaluated): [42-libasm](https://github.com/UniverseLambda/42-libasm)
 - ft_printf, a partial implementation of printf in C: [42-ft_printf](https://github.com/UniverseLambda/42-ft_printf)
 - get_next_line, a project with a function to read a file descriptor line by line... 🤷‍♂️ [42-get_next_line](https://github.com/UniverseLambda/42-get_next_line)
