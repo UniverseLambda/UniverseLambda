@@ -2,7 +2,7 @@
 
 **I'm Clément SAAD, *(aka UniverseLambda)*.**
 
-I'm a developper actually studying in [42lyon](https://42lyon.fr/) (a school from the [42 Network](https://42.fr/)) though it was my already my job before.
+I'm a developper actually studying in [42lyon](https://42lyon.fr/) (a school from the [42 Network](https://42.fr/)) though it was already my job before.
 
 Enjoy *(or suffer)* visiting my repos and admire *(or vomit in front of)* my code 😉
 
