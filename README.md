@@ -8,6 +8,9 @@ Enjoy *(or suffer)* visiting my repos and admire *(or vomit in front of)* my cod
 
 ### Repos 
 #### 42's projects
+
+A fair warning before exploring my school projects: those done in C follow a strict formatting norm imposed by the school, so it doesn't actually represent my way of coding/formatting my code. I apologize in advance for that.
+
 - ft_transcendence, an online pong using NodeJS, TypeScript, NestJS and Angular: [42-ft_transcendence-backend (backend)](https://github.com/UniverseLambda/42-ft_transcendence-backend)/[Training-trancendance (main repo, on another student profile)](https://github.com/sach1095/Training-trancendance)
 - ft_irc, a partial implementation of a IRC server in C++98: [42-ft_irc](https://github.com/UniverseLambda/42-ft_irc)
 - Inception, a fully working Wordpress site with Docker-compose, MariaDB, NGINX and PHP: [42-inception](https://github.com/UniverseLambda/42-inception)
