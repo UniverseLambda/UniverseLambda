@@ -1,24 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-**I'm Clément SAAD, *(aka UniverseLambda)*.**
+### **I'm Clément SAAD, *(aka UniverseLambda)*.**
 
-I'm a developper actually studying in [42lyon](https://42lyon.fr/) (a school from the [42 Network](https://42.fr/)) though it was already my job before.
+I'm a developper, currently employed at DIMO Software (until I manage to give my manager a mental breakdown).
 
-Enjoy *(or suffer)* visiting my repos and admire *(or vomit in front of)* my code 😉
+Self learning since very young and (*kinda successfuly*) studied at [42lyon](https://42lyon.fr), Rust enthusiast 🦀.
+
+I don't bite (most of the time at least). So hmu if you want to talk, I just take a lot of time to answer.
 
 ### Repos 
-#### 42's projects
-
-Removed my projects for now.
 
 #### Personnal projects
-- uLambda's Compiler Library, a library aiming to help creating compiler (yes, in Java): [ulambda-compiler-lib-java](https://github.com/UniverseLambda/ulambda-compiler-lib-java)
-- uLambda's Debug Library, a library aiming to help debug containers coded in C++98: [ulambda-debug-library](https://github.com/UniverseLambda/ulambda-debug-library)
-- Katnoisi LLVM, a contextual language compiler developped in Rust (it's an almost empty project, currently only a lexer-wannabe): [ktns-llvm](https://github.com/UniverseLambda/ktns-llvm)
+- Eclair Game Engine, my rewrite of the Blitz3D game engine with an LLVM backend: [eclair-ge](https://github.com/UniverseLambda/eclair-ge)
+- uLambda's Easy Scripting Language, my : [ulesl](https://github.com/UniverseLambda/ulesl)
 
 **A lot of my personnal projects are still private. I'll set them to public in the near future**
 
-Btw, I'll create a site in the near future.
+#### School projects
+
+They are private right now, and that might be definitive.
 
 <!--
 **UniverseLambda/UniverseLambda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
